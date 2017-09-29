@@ -5,6 +5,7 @@ This bundle compiles only on Java 8.
 
 ## Dependencies
 * OpenFeign 9.5.1
+* Apache HTTP Async Client
 
 ## Usage
 Just pass the default CloseableHttpAsyncClient or pass a custom created client to FeignBuilder and you are done 
